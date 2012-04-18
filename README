@@ -3,3 +3,6 @@ test for git branching.
 NEW1. add for test.
 
 add for test from JoeyZheng
+
+test detached HEAD, commit on new1 HEAD. - JoeyZheng
+
